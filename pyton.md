@@ -6,7 +6,7 @@
 while True: print(eval(input('>>>')))
 ```
 
-### код для написание своего списка:
+### код для написание своего списка(на Python):
 
 ```python
 n = int(input("Enter length"))
