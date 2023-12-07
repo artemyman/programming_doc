@@ -1,5 +1,5 @@
 # programming_doc
-###colculator in java
+### colculator in java
 ```java
 Scanner scan = new Scanner(System.in);
 int num1 = scan.nextInt();
